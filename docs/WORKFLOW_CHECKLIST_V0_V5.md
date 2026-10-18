@@ -1,0 +1,7 @@
+# CHECKLIST OPERACIONAL DO ROADMAP — ATLAS DE INTERESSES
+**Versão:** 7.0  
+
+---
+
+- [x] **V0.1 a V0.6 (GATES PASSED / HANDOFF PRONTO)**
+- [ ] **V1 — Núcleo Funcional Local-first (BLOQUEADO AGUARDANDO AUTORIZAÇÃO)**
